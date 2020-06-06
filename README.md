@@ -1,7 +1,7 @@
 # sklearn-mlp
 This is the Homework 5 of [Introduction to Artificial Intelligence](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0108&sem=2&co_no=H335800&class_code=)
 
-We are require to build examples of MLP by scikit-learn MLPClassifier and MLPRegressor.
+We are required to build examples of MLP by scikit-learn MLPClassifier and MLPRegressor.
 
 ## Data 
 In this repo, I use two of [UCI dataset](https://archive.ics.uci.edu/ml/datasets.php).
