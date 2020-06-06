@@ -1,5 +1,5 @@
 # sklearn-mlp
-Examples of MLPClassifier and MLPRegressor
+Examples of scikit-learn MLPClassifier and MLPRegressor
 
 ## Data 
 In this repo, I use two of [UCI dataset](https://archive.ics.uci.edu/ml/datasets.php).
